@@ -38,6 +38,7 @@
     {"id":{"name":"objColetavel","path":"objects/objColetavel/objColetavel.yy",},},
     {"id":{"name":"ObjPlayer","path":"objects/ObjPlayer/ObjPlayer.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"SprArmadilha","path":"sprites/SprArmadilha/SprArmadilha.yy",},},
     {"id":{"name":"SprItemColetavel","path":"sprites/SprItemColetavel/SprItemColetavel.yy",},},
     {"id":{"name":"SprPlayer","path":"sprites/SprPlayer/SprPlayer.yy",},},
     {"id":{"name":"SprPlayerAndando","path":"sprites/SprPlayerAndando/SprPlayerAndando.yy",},},
